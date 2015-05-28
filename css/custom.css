@@ -1,0 +1,22 @@
+/* custom styles can go here */
+@import url(../lib/css/social-reveal.css);
+
+span.icon {margin-left: 11px;;}
+/*a span.icon:hover {color:red;font-size: 150%; !important}*/
+div.social-bar {margin-top: 5em;}
+
+tr.th {font-weight:bolder;font-style:italic; font-size: 110%;}
+
+.bigarrow {font-size: 200% !important;}
+
+table tr td{font-size:80% !important;border: none !important; }
+table.fullsize tr td{font-size:100% !important;}
+table.noborder {border: none !important;}
+
+table.skillset tr:nth-child(even) {background: #033b01;}
+
+p.alt-colors span:nth-child(even) {color: #d88d00;}
+p.alt-colors span:nth-child(odd) {color: #07b100;}
+
+span.green {color: #d88d00;}
+span.orange {color: #07b100;}
